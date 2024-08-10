@@ -11,6 +11,20 @@ In addition, this project was made to assist me in finishing my school assignmen
 4.
 5.
 
+## Tech Stack
+
+### Frontend
+
+- `ReactJS: v18.3.1`
+- **SockJS**: v1.5.1
+- **STOMP.js**: v2.3.3
+
+### Backend
+
+- **Node.js**: v20.16.0
+- **Java**: v20.0.1
+- `Spring Boot: v3.3.2`
+
 ## Features
 
 - **Real-time messaging**: Messages are delivered instantly without the need to refresh the page.
