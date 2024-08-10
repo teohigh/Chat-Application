@@ -2,8 +2,7 @@
 
 ## Description
 
-This is a real-time chat application built using SockJS and STOMP. It allows users to communicate with each other instantly through a web interface. The application supports both private and group chats, ensuring a seamless communication experience.
-In addition, this project was made to assist me in finishing my school assignment for the **CT240 Software Constructions Principles** course. My five-person team collaborates to finish this project, and they include:
+It is a real-time chat application built using SockJS and STOMP technology on the Spring Boot and ReactJS platforms. It allows users to communicate with each other instantly through a web interface. The application supports both private and group chats, ensuring a seamless communication experience. In addition, this project was made to assist me in finishing my school assignment for the **CT240 Software Constructions Principles** course. My five-person team collaborates to finish this project, and they include:
 
 1. Nguyen Nhat Tai (owner)
 2.
